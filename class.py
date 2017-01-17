@@ -81,8 +81,7 @@ class task:
 		ok = re.findall(p,file)
 			for a in ok:
 				print a
-
-
+				
 
 a=task()
 
